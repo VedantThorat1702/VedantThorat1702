@@ -1,9 +1,10 @@
-### Hi there! 👋 I'm Vedant
+### Hi there! 👋 I'm Vedant!
 
-- 👀 I’m interested in data science, machine learning, AI, and data-driven business solutions.
-- 🌱 I’m currently learning advanced data analytics and machine learning in my Postgraduate Program 
-- 💞️ I’m looking to collaborate on projects involving data analysis, predictive modeling, and AI applications.
-- 📫 How to reach me: vedant2000thorat@gmail.com | https://www.linkedin.com/in/vedant-thorat/
+🚀 Data Science enthusiast with a background in Computer Science and Marketing.  
+🔍 Skilled in Python, SQL, Machine Learning, and Data Analytics.  
+🌱 Currently advancing my skills in Data Science and Analytics at Imarticus Learning.  
+🤝 Open to collaborating on data-driven projects and innovative solutions.  
+📫 How to reach me: vedant2000thorat@gmail.com | https://www.linkedin.com/in/vedant-thorat/
 
 <!---
 Vedant Thorat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
